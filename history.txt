@@ -16,3 +16,5 @@ Acción en Figther.
 
 Valentia & Coraje
 Combate Cuerpo a Cuerpo.
+
+Equipamiento de Elite.
