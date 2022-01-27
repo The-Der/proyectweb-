@@ -41,6 +41,12 @@ body {
 }
 
 #post {
-  background: mediumvioletred;
   padding: 1em;
+  background: mediumvioletred;
+}
+
+#footer {
+  text-align: center;
+  background: darkorange;
+  padding: 0.2em;
 }
